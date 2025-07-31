@@ -10,9 +10,9 @@ This is a simple Streamlit web application that helps users analyze their daily 
 - Calculate total and average usage
 - Identify highest and lowest usage days
 - Slab-based billing system:
-  - ₹5/unit for the first 100 units
-  - ₹7/unit for the next 100 units (101–200)
-  - ₹10/unit for units above 200
+  - ₹3/unit for the first 100 units
+  - ₹5/unit for the next 100 units (101–200)
+  - ₹8/unit for units above 200
 - Highlight high-usage days based on a custom threshold
 - Visualize daily usage with a bar chart
 

@@ -45,6 +45,14 @@ This is a simple Streamlit web application that helps users analyze their daily 
 
 
  ## 🙏 Special Thanks To:
- * Our mentor Dixson Joy for his invaluable technical guidance
- * Academic counselors Jasmine James & Eric Thomas for their continuous support
- * Rahul Mohanakumar and Luminar Technolab Kochi for providing an excellent learning platform
+ Special thanks to:
+
+Mentor: Dixon Joy - https://www.linkedin.com/in/dixson-joy-527513173/
+
+Academic Counselors:
+
+Jasmine James - https://www.linkedin.com/in/jasmine-james-2-/
+
+Eric Thomas - https://www.linkedin.com/in/eric-thomas-in/
+
+Institution: Luminar Technolab, Kochi under Rahul Mohanakumar @ https://www.linkedin.com/company/luminartechnolab/posts/?feedView=all @ https://www.linkedin.com/in/rahulluminar/

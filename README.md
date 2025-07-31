@@ -2,7 +2,7 @@
 
 This is a simple Streamlit web application that helps users analyze their daily electricity usage and calculates an estimated bill based on slab-based pricing.
 
-## Live Demo - https://electricity-bill-generator-mf3uxnavmvwzmw9wsxuats.streamlit.app/
+## Live Demo -  https://electricity-bill-generator.streamlit.app/
 
 ## 📌 Features
 
